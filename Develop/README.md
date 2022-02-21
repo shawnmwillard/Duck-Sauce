@@ -3,23 +3,23 @@
 undefined
 
 # Title: 
-Hello
+Cookie Recipe
 
 ## Description: 
-Hello
+This is a recipe for cookies!
 
 ## Table of Contents: 
 true
 
 ### Installation:
-install
+Local
 
 ### License:
-MIT
+ISC
 
 ## Contributors:
-me
+Me, Myself, I
 
 ## Tests: 
-me
+npm test
 
